@@ -5,8 +5,7 @@ https://6543e65dfcf5f2347e4a4122--comfy-croquembouche-e1aa0e.netlify.app/
 3. npm run dev<br />
 
 # Seasons
-After spending a year in the crypto industry, I was inspired to embark on my journey as a frontend developer. One of my initial ideas was to build a website that displays real-life crypto data. Lightspeed is a crypto platform that empowers users to access real-time information on all cryptocurrencies.
-
+The Seasons project is a reflection of my appreciation for art, colors, and the changing seasons. Each season is an inspiration, an opportunity to blend design with nature's palette. The project encapsulates my desire to create visually appealing, harmonious user interfaces and user experiences. Despite being a project with minimal function, I aim to convey that my love for design goes beyond traditional websites. A website can be for crafting exquisite, immersive, and captivating visual stories that resonate with people on a profound level.
 ## Tech Stack ##
 React<br />
 Tailwind<br />
